@@ -4,7 +4,7 @@ Clustering visualization of a kohonen network
 The white dots represent the data points (purpousely placed in clusters)  
 The coloured dots represent the cluster prototypes of the algorithm  
 
-Each step a data point is selected and all cluster prototypes that are close to that point,  
+Each step a data point is selected (coloured green in the simulation) and all cluster prototypes that are close to that point,  
 regarding the kohonen map, are slightly moved in that direction.  
 After several iterations almost all prototypes are positioned in the center of a cluster.  
 
