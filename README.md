@@ -8,5 +8,8 @@ Each step a data point is selected (coloured green in the simulation) and all cl
 regarding the kohonen map, are slightly moved in that direction.  
 After several iterations almost all prototypes are positioned in the center of a cluster.  
 
+In the process of adjusting the prototypes:
 ![b1](https://github.com/LouisBock/Kohonen-network/assets/82266724/cf771b33-023c-497c-be67-1859c44c8393)
+
+Close to the end:
 ![b3](https://github.com/LouisBock/Kohonen-network/assets/82266724/cece8301-8da4-4095-a078-a1f08db5444d)
