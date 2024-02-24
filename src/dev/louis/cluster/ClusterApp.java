@@ -170,7 +170,7 @@ public class ClusterApp implements Runnable{
 			
 		for(int i = 0; i < data.length; i++) {
 			
-			float x = (float) (5*i%clusterCount)/clusterCount * width;
+			float x = (float) (3*i%clusterCount)/clusterCount * width;
 			float y = (float) (i%clusterCount)/clusterCount * height;
 			data[i] = new Datapoint((float) (x + Math.random() * width * 0.1), (float) (y + Math.random() * height * 0.1), new Color(255, 255, 255));
 			//no clustering

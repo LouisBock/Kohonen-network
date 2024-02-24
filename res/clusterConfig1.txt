@@ -1,9 +1,9 @@
 fps:120
-prototypeCount:4
-dataCount:160
-clusterCount:16
+prototypeCount:3
+dataCount:90
+clusterCount:9
 randomPos:true
-radius:4
-timeToMove:0.2
-neighborStrength:0.7
-learningRate:1.5
+radius:5
+timeToMove:0.1
+neighborStrength:0.65
+learningRate:1.6
